@@ -4,4 +4,4 @@
 
 
 ### Screenshots of the website
-![](/screenshot 1)
+![](My-Portfolio/screenshot 1)
