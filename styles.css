@@ -39,6 +39,13 @@ nav
     flex-wrap: wrap;
 }
 
+#jit
+{
+    overflow:visible;
+    position:fixed;
+    top:80 px;
+    right: 80 px;
+}   
 .logo
 {
     width: 140px;
