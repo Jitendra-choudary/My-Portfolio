@@ -31,13 +31,19 @@ body
     padding:10px 10%;
 }
 
-nav
-{
-    display: flex;
+
+#navbar {
+     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background: #000; /* Add a background color to navbar */
 }
+
 
 #jit
 {
